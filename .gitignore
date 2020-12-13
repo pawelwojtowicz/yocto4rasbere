@@ -31,3 +31,10 @@ pull-*/
 bitbake/lib/toaster/contrib/tts/backlog.txt
 bitbake/lib/toaster/contrib/tts/log/*
 bitbake/lib/toaster/contrib/tts/.cache/*
+wojtech-rpi2/bitbake-cookerdaemon.log
+wojtech-rpi2/bitbake.lock
+wojtech-rpi2/cache/
+wojtech-rpi2/downloads/
+wojtech-rpi2/sstate-cache/
+wojtech-rpi2/tmp/
+
